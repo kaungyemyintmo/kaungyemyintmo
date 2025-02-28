@@ -11,6 +11,7 @@
 📫 Reach me at: kaungyemo04@gmail.com | [Discord] hevv._.
 
 ## Tech Stack 🛠️
+![HTML](https://img.shields.io/badge/-HTML-0595DB?style=flat-square&logo=HTML&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
@@ -34,8 +35,10 @@
 
 ## Connect With Me 🌐
 
-<p align="center">
+<p align="left">
   <a href="https://www.linkedin.com/in/kaung-ye-myint-mo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 </p>
+
+
 
 ---
