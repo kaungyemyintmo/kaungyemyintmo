@@ -37,8 +37,9 @@
 
 <p align="left">
   <a href="https://www.linkedin.com/in/kaung-ye-myint-mo/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-
- |
+  
+</p>
+<p>
   <a href="https://www.instagram.com/hawttpinkk/">
     <img src="https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
