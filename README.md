@@ -29,6 +29,11 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
+<p align="center">
+
+  <img src ="https://github-readme-stats.vercel.app/api/top-langs/?username=kaungyemyintmo&theme=dracula" alt="Top langs" />
+  </p>
+
 ## Activity Graph 📈
 
 <p align="center">
