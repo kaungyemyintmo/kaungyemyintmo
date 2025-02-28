@@ -1,4 +1,3 @@
-# hevv
 # Hello, I'm Heather 👋
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2EACF7&random=false&width=435&lines=Full+Stack+Developer;Open+Source+Enthusiast;Always+learning+new+things" alt="Typing SVG" />
