@@ -25,7 +25,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 ## Activity Graph 📈
 
 <p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=kaungyemyintmo&theme=react-dark" alt="Contribution Graph" />
+  <img src="https://github-contribution-stats.vercel.app/api/?username=kaungyemyintmo" alt="Contribution Stats" />
 </p>
 
 ## Connect With Me 🌐
