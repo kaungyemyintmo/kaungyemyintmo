@@ -25,7 +25,7 @@
 </p>
 
 <p align="left">
-  <img src="https://streak-stats.demolab.com/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.vercel.app/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
@@ -40,12 +40,3 @@
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kaungyemyintmo&color=blueviolet" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/kaungyemyintmo?label=Followers&style=social" alt="Followers" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" alt="Wave Animation" />
-</p>
