@@ -24,7 +24,7 @@
   <img src="https://github-readme-stats.vercel.app/api?username=kaungyemyintmo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
 </p>
 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=kaungyemyintmo)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=kaungyemyintmo&theme=dark)](https://git.io/streak-stats)
 
 <p align="center">
 
