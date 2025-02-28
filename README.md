@@ -11,21 +11,20 @@
 📫 Reach me at: kaungyemo04@gmail.com | [Discord] hevv._.
 
 ## Tech Stack 🛠️
-
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=raspberry-pi&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Mendix](https://img.shields.io/badge/-Mendix-0595DB?style=flat-square&logo=mendix&logoColor=white)
 
 ## GitHub Stats 📊
 
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=kaungyemyintmo&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.vercel.app/?user=kaungyemyintmo&theme=tokyonight" alt="GitHub Streak" />
 </p>
 
 <p align="left">
