@@ -5,7 +5,7 @@
 ## About Me ✨
 
 🚀 Working on innovative solutions that make a difference  
-🔭 Currently exploring the depths of MongoDB, Flask, Swift
+🔭 Currently exploring the depths of MongoDB, Flask
 
 🌱 Learning ABCD of Fintech   
 📫 Reach me at: kaungyemo04@gmail.com | [Discord] hevv._.
